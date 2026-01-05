@@ -1,7 +1,7 @@
 #ifndef POKER_PLAYER_H_
 #define POKER_PLAYER_H_
 
-#include "poker_card.h"
+#include "playing_card.h"
 
 // This is a callback to the player decision method
 typedef uint32_t (*PkrDecision)(void *, const uint8_t);

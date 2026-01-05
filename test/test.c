@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#include <pkr/poker.h>
+#include <pkr/texas_holdem.h>
 
 int main(void) {
   srand(time(NULL));

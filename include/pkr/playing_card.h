@@ -1,7 +1,7 @@
 #ifndef POKER_CARD_H_
 #define POKER_CARD_H_
 
-#include "poker_enum.h"
+#include "pkr_enum.h"
 
 // Documentation needed...
 const static char pSuits[PKR_SUIT_COUNT] = {

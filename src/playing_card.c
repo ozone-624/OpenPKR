@@ -2,7 +2,7 @@
  *    poker_card.c
  */
 
-#include "pkr/poker_card.h"
+#include "pkr/playing_card.h"
 
 // Documentation needed...
 void pkrCreateDeck(PkrDeck deck) {

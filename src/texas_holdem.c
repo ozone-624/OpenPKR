@@ -2,7 +2,7 @@
  *    poker.c
  */
 
-#include "pkr/poker.h"
+#include "pkr/texas_holdem.h"
 
 uint8_t pkrPlayRound(uint8_t playerCount, PkrPlayer *pPlayers) {
   // Allocate and set a deck of cards
