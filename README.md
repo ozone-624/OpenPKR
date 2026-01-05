@@ -1,6 +1,6 @@
 # OpenPKR
 
-![OpenPKR Logo](images/openpkr_purple.png)
+![OpenPKR Logo](images/openpkr_green.png)
 
 Card games written in C for use in other projects.  Please enjoy!
 
